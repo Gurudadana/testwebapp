@@ -10,3 +10,16 @@
     "applicationinsights": "^2.3.5"
   }
 }
+{
+  "name": "api",
+  "version": "1.0.1",
+  "description": "",
+  "scripts": {
+    "start": "func test",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "applicationinsights": "^2.3.6"
+  }
+}
+
