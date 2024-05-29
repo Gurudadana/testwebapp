@@ -10,3 +10,29 @@
     "applicationinsights": "^2.3.5"
   }
 }
+
+{
+  "name": "reddy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "applicationinsights": "^2.3.8"
+  }
+}
+
+{
+  "name": "guru",
+  "version": "1.0.5",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "applicationinsights": "^2.3.4"
+  }
+}
